@@ -10,6 +10,10 @@ Serial Communication: Arduino ทำหน้าที่อ่านสถา�
 
 Python Script: คอยดักฟัง (Listen) ข้อมูลผ่านพอร์ต Serial และนำข้อความที่ได้ไปเงื่อนไข (Condition) เพื่อสั่งงานระบบขั้นต่อไปได้ทันที
 
+<img width="447" height="447" alt="images-2" src="https://github.com/user-attachments/assets/71f18322-cc82-412e-91de-bfb2c7789304" />
+
+<img width="450" height="320" alt="images-3" src="https://github.com/user-attachments/assets/2ef1acdd-5a68-481e-8343-6854e04ab934" />
+
 ****************************************************************************
 
 Name : Patasu Daungmala
