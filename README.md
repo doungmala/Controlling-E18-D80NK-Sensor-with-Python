@@ -12,7 +12,7 @@ Python Script: คอยดักฟัง (Listen) ข้อมูลผ่า�
 
 ****************************************************************************
 
-rlkey=nvqvndrxv7v9yrfmlcgtplmtxงมาลา
+Name : Patasu Daungmala
 
 ตำแหน่ง : R&D Manager
 
@@ -39,5 +39,3 @@ AI, Image Processing : https://www.dropbox.com/scl/fi/tskimhifw0hlcdea5e8t8/Next
 IoT : https://www.dropbox.com/scl/fi/a5mj4ucjotjv4xrh6sh9q/NS_IOT2025.pdf?rlkey=t0cwl0l4b81w73do2drhqqjp0&dl=0
 
 SEO, Website : https://www.dropbox.com/scl/fi/4q811q0s88xtd8usf5e25/WEB-DEVELOPER-SEARCH-ENGINE-OPTIMIZATION.pdf?rlkey=nvqvndrxv7v9yrfmlcgtplmtx&dl=0
-
-
